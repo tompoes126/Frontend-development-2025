@@ -61,8 +61,11 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+<br>
       - Je website semantisch correct maken zodat mensen die slecht zien zijn de voice-over functie kunnen gebruiken zonder dat ze tegen obstakels aan lopen zoals dat de kopjes niet goed zijn aangeroepen.
+<br>
       - Hoe moeilijk het is om een website te kunnen navigeren tijdens dat je amper tot niks kan zien en dan ook nog shortcuts moeten leren te gebruiken.
+<br>
       - Dat de website die ik heb gekozen nog niet helemaal optimaal is voor mensen die de voice-over functie gebruiken.
 </details>
 
