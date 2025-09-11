@@ -41,11 +41,11 @@ Om weer in het schrijven van css te komen, begonnen we met een aantal oefeningen
   https://www.fullexposure.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Full-Exposure work pagina:
   <img src="readme-images/workpagina.png" width="375px" alt="Dit is de workpagina waar al het fotografische werk staat van Ricardo van den Berg.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Full-Exposure info pagina:
   <img src="readme-images/infopagina.png" width="375px" alt="Dit is de info pagina waar Ricardo wat meer over zichzelf gaat praten.">
  
 </details>
