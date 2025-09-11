@@ -86,8 +86,8 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <br>
   <img src="images/Dynamisch-Deel.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### wellicht nog een dynamisch deel (bijv filter), maar in dit geval ik die aan een tramhokje hang: 
+  <img src="images/DSC01958.JPG" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
