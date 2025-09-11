@@ -79,10 +79,12 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/Breakdown-home-pagina.png" width="375px" alt="breakdown van de hele home pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <p>Hier kun je zien dat, tijdens het klein maken, het menu niet veranderd in een hamburger menu, maar een misvormde in één geklapte niet bestaand woord.</p>
+  <br>
+  <img src="images/Dynamisch-Deel.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
