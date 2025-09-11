@@ -34,6 +34,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
+Bij de kick-off (de eerste les na de vakantie) liepen we eerst door het programma dat we dit blok gaan volgen en keken we naar wat dit vak inhoudt en welke opdracht we gaan maken.
+Om weer in het schrijven van css te komen, begonnen we met een aantal oefeningen die voor mij vrij makkelijk waren, maar naarmate je verder kwam moest je dingen gebruiken zoals hover en dat was wel een beetje weggezakt. Het was daarom fijn om dat weer even onder de knie te krijgen.
 
   ### Je opdracht:
   https://www.fullexposure.nl/
@@ -54,10 +56,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefeningen doen van apple toen ik de voice-over setting aan probeerde te zetten. Om de voice-over optie te gebruiken moet je alle shortcuts kunnen gebruiken om het internet, in dit geval mijn gekozen website, te navigeren. In het begin was ik erg gefrustreerd dat de stem, die mij moest helpen bij het navigeren, behoorlijk irritant was en ik hoofdpijn kreeg. Na een tijdje begon ik het een beetje te begrijpen en kon, op een soort van normaal tempo, de website navigeren. Alleen had ik mijn ogen open en kon zien hoe de website eruit zag en wat ik moest doen om door te kunnen gaan. Het is lastig om dan jezelf voor te stellen dat je helemaal tot bijna niks kan zien en dan ook nog is al die shortcutes moet kunnen te gebruiken. Voor deze opdracht moesten we samen met degene naast je, in mijn geval was dat chantelle die de europese funko pop website had gekozen, samen met die persoon moest je bij elkaars website kijken of de gekozen website makkelijk of moeilijk te navigeren was met de voice-over functie. Op de gekozen website van haar was hij goed te navigeren.  
+
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+      - Je website semantisch correct maken zodat mensen die slecht zien zijn de voice-over functie kunnen gebruiken zonder dat ze tegen obstakels aan lopen zoals dat de kopjes niet goed zijn aangeroepen.
+      - Hoe moeilijk het is om een website te kunnen navigeren tijdens dat je amper tot niks kan zien en dan ook nog shortcuts moeten leren te gebruiken.
+      - Dat de website die ik heb gekozen nog niet helemaal optimaal is voor mensen die de voice-over functie gebruiken.
 </details>
 
 
