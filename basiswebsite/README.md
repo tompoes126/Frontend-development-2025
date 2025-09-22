@@ -110,11 +110,11 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
 
   Voor het gesprek hadden we een teams chat gemaakt om daarin ons voor te bereiden. Helaas reageerde niet iedereen met een vraag die hij/zij had voor u.
 
-  Mel: had nog niet echt iets waar ze tegen aanliep aangezien ze nog wat achter liep.
-  Rodin: (niet gereageerd)
-  Gulav: Had net zoals ik nog moeite met het begrijpen van display: grid;.
-  Fatima: Had nog vragen over de html structurerende elementen en welke ze in een bepaalde situatie moest gebruiken.
-  Ik(Tom): IK had nog moeite met het begrijpen van display: grid;
+  <P> Mel: had nog niet echt iets waar ze tegen aanliep aangezien ze nog wat achter liep. </P> 
+  <P> Rodin: (niet gereageerd) </P> 
+  <P>Gulav: Had net zoals ik nog moeite met het begrijpen van display: grid;.</P> 
+  <P>Fatima: Had nog vragen over de html structurerende elementen en welke ze in een bepaalde situatie moest gebruiken.</P> 
+  <P>Ik(Tom): IK had nog moeite met het begrijpen van display: grid;</P> 
 
   ### Verslag van meeting
   Na het voortgangs gesprek was mijn vraag (niet echt helaas) beantwoord. Voordat ik het kon vragen begreep ik het opeens.
