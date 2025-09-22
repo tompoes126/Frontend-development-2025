@@ -48,7 +48,7 @@ Om weer in het schrijven van css te komen, begonnen we met een aantal oefeningen
   #### Screenshot(s) van de tweede pagina (small screen):
   Full-Exposure info pagina:
 <br>
-  <img src="readme-images/infopagina.png" width="375px" alt="Dit is de info pagina waar Ricardo wat meer over zichzelf gaat praten.">
+  <img src="readme-images/work-detail-page.png" width="375px" alt="Dit is een screenshot van de pagina waar je de details van Ricardo's werk kan zien.">
  
 </details>
 
@@ -101,26 +101,27 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Tijdens dit eerste voortgangs gesprek was ik nog niet echt toegekomen met het begin van het na maken (beter maken) van mijn gekozen website. Des ondanks had ik wel een vraag over hoe "display: grid;" werkte.
+  Voordat ik aan de beurt was ging ik nog even opnieuw kijken bij de opdrachten die we hadden gehad om te oefenen met display:grid; en toen opeens klikte het. Ik was helemaal vergeten dat je eerst een template moest maken   om vervolgens de items die je erin wil zetten het juiste cijfer/vakje als eigenschap te geven.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Voor het gesprek hadden we een teams chat gemaakt om daarin ons voor te bereiden. Helaas reageerde niet iedereen met een vraag die hij/zij had voor u.
 
+  Mel: had nog niet echt iets waar ze tegen aanliep aangezien ze nog wat achter liep.
+  Rodin: (niet gereageerd)
+  Gulav: Had net zoals ik nog moeite met het begrijpen van display: grid;.
+  Fatima: Had nog vragen over de html structurerende elementen en welke ze in een bepaalde situatie moest gebruiken.
+  Ik(Tom): IK had nog moeite met het begrijpen van display: grid;
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Na het voortgangs gesprek was mijn vraag (niet echt helaas) beantwoord. Voordat ik het kon vragen begreep ik het opeens.
+  Voor de rest wou ik alleen even laten zien wat ik wou gaan doen als verbeter punten aan de website die ik na ging maken.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - responsiveness was niet goed als het scherm klein werd.
+  - header/nav had geen gap meer als het scherm klein werd.
 
 </details>
 
