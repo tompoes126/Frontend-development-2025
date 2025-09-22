@@ -134,6 +134,25 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
 <details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
+  ### Mini-symposium
+
+  <strong>Tijdens het mini-symposium kwamen er 3 mensen praten over toegankelijkheid van websites en ook voorbeelden uit de praktijk.</strong>
+  <br>
+  Wettelijke verplichtingen: De eerste persoon die kwam spreken had het over wettelijke verplichtingen waaraan websites moeten voldoen om voor zo veel mogelijk mensen toegankelijk te zijn. Ik was helaas te laat gekomen      aangezien mijn tram 2x uitviel, dus een groot deel van deze spreker heb ik gemist. Waar ik wel nog bij was is dat er online eens in de zoveel jaar online vergaderingen zijn die je kan bijwonen om te praten over de         regels van toegankelijkheid. Wat er ook nog was gezegd is doordat bijvoorbeeld amsterdam een hele toegankelijke website heeft er een soort competitie ontstaat met andere gemeentes die zelf de meest toegankelijke website 
+  willen hebben. Hier door gaan gemeente steeds verder in op toegankelijkheid.
+  <br>
+  Eigen ervaring: Een mevrouw die les geeft aan de hogeschool van Rotterdam kwam praten over het leven met een beperking. Ze is doof en heeft daardoor op veel manieren problemen mee door slecht geregelde dingen die
+  eigenlijk heel makkelijk opgelost kunnen worden. Een aantal dingen die werden benoemt waren: Gebeld worden door het appartementen complex tijdens dat ze al jaren lang heeft gezegd dat ze doof is en dus niet gebeld kan
+  worden, de ns (spreekt voorzich), dat ze nog nooit een nederlandse film heeft gezien en geen nederlandse tv kijkt. Voor veel of wel bijna allemaal zijn er al meerdere oplossingen in andere landen, maar nederland loopt
+  hier mee heel erg achter. De ondertiteling van tv uitzendingen zijn zo traag en slecht dat je niet eens kan begrijpen wat er allemaal gezegd wordt, tijdens dat in het buitenland dit al helemaal geen probleem meer is.
+  Ook was nog een probleem dat als je een afspraak maakt online je al snel alleen je telefoonnummer kan invoeren als bereik middel. Er zijn een aantal bedrijven die het zo hebben gemaakt dat als je met de klantenservice
+  wil praten maar je bent doof dat je dan, inplaats van dat je naar de persoon aan de andere kant van de lijn moet luisteren, een chat ziet waar je kan lezen wat er wordt gezegd aan de andere kant van de lijn.
+  <br>
+  Toegankelijkheid in websites: Een oudstudent van het cmd die nu bij Q42 werkt kwam praten over hoe je je website toegankelijk kan maken. Hij ging vooral praten over de website waar hij met een groepje mee bezig is en
+  hoe hij het maken van een toegankelijk maar wel vette visual website mogelijk maakt. De website waar hij over ging praten was Oculi Mundi. Buiten hele mooie visual gemaakt met css kan je ook de motion restricten voor
+  mensen die zee ziek worden door alle beweging. Alles wordt dan aangepast en word minder bewegend.
+
+
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
