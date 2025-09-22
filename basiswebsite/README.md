@@ -138,6 +138,7 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
 
   <strong>Tijdens het mini-symposium kwamen er 3 mensen praten over toegankelijkheid van websites en ook voorbeelden uit de praktijk.</strong>
   <br>
+  <br>
   Wettelijke verplichtingen: De eerste persoon die kwam spreken had het over wettelijke verplichtingen waaraan websites moeten voldoen om voor zo veel mogelijk mensen toegankelijk te zijn. Ik was helaas te laat gekomen      aangezien mijn tram 2x uitviel, dus een groot deel van deze spreker heb ik gemist. Waar ik wel nog bij was is dat er online eens in de zoveel jaar online vergaderingen zijn die je kan bijwonen om te praten over de         regels van toegankelijkheid. Wat er ook nog was gezegd is doordat bijvoorbeeld amsterdam een hele toegankelijke website heeft er een soort competitie ontstaat met andere gemeentes die zelf de meest toegankelijke website 
   willen hebben. Hier door gaan gemeente steeds verder in op toegankelijkheid.
   <br>
