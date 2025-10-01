@@ -84,10 +84,7 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   ### dynamisch deel (bijv menu): 
   <p>Hier kun je zien dat, tijdens het klein maken, het menu niet veranderd in een hamburger menu, maar een misvormde in één geklapte niet bestaand woord.</p>
   <br>
-  <img src="images/Dynamisch-Deel.png" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter), maar in dit geval ik die aan een tramhokje hang: 
-  <img src="images/DSC01958.JPG" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/detail-breakdown.jpg" width="375px" alt="breakdown van de detail pagina">
 
 </details>
 
