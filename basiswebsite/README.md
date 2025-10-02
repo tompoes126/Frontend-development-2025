@@ -300,7 +300,7 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <img src="readme-images/!taai.png" width="375px" alt="screenshot van de verkleinde versie van de work pagina.">
   <p>Tijdens het kleiner maken van de detail pagina gaat de grid rechts raar doen met de images. Waarschijnlijk omdat ik ze dat automatisch onder elkaar moet gaan zetten maar op een of andere manier lukte dat niet zonde de images ziek groot te laten worden en de hele pagina te verpesten.</p>
 
- <img src="readme-images/!taai.png" width="375px" alt="screenshot van de verkleinde versie van de work pagina.">
+ <img src="readme-images/footer-fout.png" width="375px" alt="screenshot van de verkleinde versie van de work pagina.">
   <p>daarnaast was het mij ook niet gelukt om de footer net zoals op de home pagina over de main te laten scrollen omdat hij al begon met omhoog komen als ik nog niet aan de onderkant van de main was. Bij de detial pagina stopte de link naar de blog met werken. Het lukte mij niet om dat te fixen.</p>
   
 </details>
