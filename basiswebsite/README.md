@@ -263,7 +263,12 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/!selection.png" width="375px" alt="Selection element css">
+  <p>zoals je kan zien heb ik ::selection gebruikt. Ik ga niet liegen, ik vond dit geweldig. Alles koppelen aan het element in css was wel taai maar dat kwam doordat ik op 2 uur slaap aan het strijden was.
+  Ik weet eigenlijk niet echt wat ik hier moet zeggen naast dat ik de selection grappig vindt en nog veel vaker ga gebruiken.</p>
+
+  <img src="readme-images/!nice" width="375px" alt="screenshot van de carousel">
+  <p>Dit is een van de leukste dingen </p>
 
 
   ### Dit ging goed/Heb ik geleerd: 
