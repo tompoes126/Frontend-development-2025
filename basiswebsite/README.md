@@ -263,24 +263,46 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/!selection.png" width="375px" alt="Selection element css">
-  <p>zoals je kan zien heb ik ::selection gebruikt. Ik ga niet liegen, ik vond dit geweldig. Alles koppelen aan het element in css was wel taai maar dat kwam doordat ik op 2 uur slaap aan het strijden was.
-  Ik weet eigenlijk niet echt wat ik hier moet zeggen naast dat ik de selection grappig vindt en nog veel vaker ga gebruiken.</p>
+  <img src="readme-images/!footer-pagina.png" width="375px" alt="Afbeelding van de footer">
 
-  <img src="readme-images/!nice" width="375px" alt="screenshot van de carousel">
-  <p>Dit is een van de leukste dingen </p>
+  <img src="readme-images/!work-pagina.png" width="375px" alt="Afbeelding van de work pagina">
 
+  <img src="readme-images/!detail-pagina.png" width="375px" alt="Afbeelding van de detail pagina">
+
+  <img src="readme-images/!nice.png" width="375px" alt="Afbeelding van de home pagina">
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/!selection.png" width="375px" alt="Selection element css">
+  <p>zoals je kan zien heb ik ::selection gebruikt. Ik ga niet liegen, ik vond dit geweldig. Alles koppelen aan het element in css was wel taai maar dat kwam doordat ik op 2 uur slaap aan het strijden was.
+  Ik weet eigenlijk niet echt wat ik hier moet zeggen naast dat ik het leuk was om voor het eerst dit element te gebruiken en toe te passen in mijn site</p>
 
+  <img src="readme-images/!nice.png" width="375px" alt="screenshot van de carousel">
+  <p>Dit is een van de leukste dingen die ik tot nu toe heb gemaakt met html css. Wat ik geleerd heb is dat je animation infinite kan maken zodat het net zoals de carousel oneindig kan door gaan (niet echt in mijn geval omdat ie 10s duurt.</p>
+  
+  <img src="readme-images/!javascript.png" width="375px" alt="Afbeelding van een hover effect met javascript">
+  <p>Dit is niet de eerste keer dat ik javascript gebruik aangezien ik het heb gebruikt om een game te maken met inleiding programmeren. Dit is wel de eerste keer dat ik het gebruik 
+  voor een website en het was verassend lastig (omdat ik was vergeten om het js bestand te koppelen in de head :). Maar uiteindelijk was het gelukt om een simpele animatie te maken.</p>
+
+  <img src="readme-images/!hover.png" width="375px" alt="screenshot van de hover bij de work pagina">
+  <p>Ik heb geleerd dat je met content="" en ::after ::before een soort reverse hover kan maken om dingen te revealen als je er overheen gaat inplaats van andersom.</p>
+
+  <img src="readme-images/!focus" width="375px" alt="screenshot van de focus bij de work pagina">
+  <p>Dit is de eerste keer dat ik een focus state heb gebruikt maar het toevoegen ervan op mijn pagina was niet al te moeilijk</p>
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/!jammer.png" width="375px" alt="screenshot van de verkleinde versie van de work pagina.">
+  <p>Op een of andere manier lukte het mij niet op deze pagina responive te maken tot het punt van 280px breed maar de andere 2 wel.</p>
+
+  <img src="readme-images/!taai.png" width="375px" alt="screenshot van de verkleinde versie van de work pagina.">
+  <p>Tijdens het kleiner maken van de detail pagina gaat de grid rechts raar doen met de images. Waarschijnlijk omdat ik ze dat automatisch onder elkaar moet gaan zetten maar op een of andere manier lukte dat niet zonde de images ziek groot te laten worden en de hele pagina te verpesten.</p>
+
+ <img src="readme-images/!taai.png" width="375px" alt="screenshot van de verkleinde versie van de work pagina.">
+  <p>daarnaast was het mij ook niet gelukt om de footer net zoals op de home pagina over de main te laten scrollen omdat hij al begon met omhoog komen als ik nog niet aan de onderkant van de main was. Bij de detial pagina stopte de link naar de blog met werken. Het lukte mij niet om dat te fixen.</p>
+  
 </details>
 
 
@@ -296,8 +318,7 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. [bron 1](https://developer.mozilla.org/en-US/docs/Web/CSS/::selection)
+  2. [bron 2](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 
 </details>
