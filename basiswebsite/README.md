@@ -154,26 +154,25 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
 
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Voor dit voortgangsgesprek liep ik nog behoorlijk achter aangezien ik was begonnen met een pagina na maken die ik eigenlijk helemaal niet eens wou doen. 
+  De pagina had een carousel met images erin die automatisch van rechts naar links gingen en dat vond ik zo leuk dat ik die er ook maar lekker bij ging doen.
+  Achteraf was dat niet een hele tactische keuze aangezien ik niet al te veel tijd nog had om de andere 2 te maken omdat ik toevallig ook nog is achterliep bij het vak vormgeving.
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  Helemaal niemand reageerde in de teams (rodin en die andere meid waarvan ik steeds de naam vergeet). Volgens mij hadden gulav en mel wel vragen maar die van mel waren hetzelfde als die van mij.
+  Ze wou namelijk ook gewoon feedback op wat we tot dan toe hadden gemaakt en of we nog aanpassingen moesten doen./
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Gulav: had geen vragen
+  Mel: wou feedback op haar tot dan toe nagemaakte website
+  Tom (ik lol haha.......): Ik wou ook feedback op wat ik had gemaakt.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  De punten die eruit kwamen waren (tromgeroffel):
+  - Er is geen h1
+  - Sommige headings aanpassen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  naast dit was er niet echt iets waarover ik vragen kon stellen aangezien, zoals ik als zei, ik achterliep.
 
 </details>
 
@@ -188,6 +187,23 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  De dingen die ik verbeterd heb:
+    - dark- en lightmode toegevoegd
+    - highcontrast mode werkt
+    - Dat kleur niet de enige manier is waarop informatie overkomt aan de gebruiker.
+    - De tekst die over iets staan (bijvoorbeeld rood) dat die niet wit is, dus beter contrast.
+    - De forms zijn duidelijk aangegeven wat je uhh ik weet niet wat ik moet zeggen behalve dat het duidelijk is wat je moet plaatsen in de form denk ik.
+    - De viewport is niet disabled
+    - De focus state is duidelijk
+    - Bij de scaling van breed naar dus dat het een clean process is dus niet dat er random tussen door white space aan 1 kant ontstaat.
+    - alle images hebben een alt. 
+
+  De dingen die tegen vielen:
+    - alleen de work page gaat niet tot 280px scallen dus dat is jammer.
+    - Ik kan de carousel niet met reduced motion uitzetten en je kan het ook niet op pauze zetten.
+    - Er zijn 2 h1's in de nav omdat ik niet echt een oplossing kon vinden aangezien de ene weg gaat als het scherm kleiner wordt dat 810px,
+      dus ik dacht dat dat niet erg zou zijn aangezien de ene of de ander altijd uit staat.
+    - Ik heb geen skiplinks want ik snapte er helemaal niks van en ik had nog maar 2 uurtjes waarin ik niet helemaal wild zou gaan.
 
 </details>
 
@@ -201,26 +217,24 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Tijdens dit gesprek was ik bezign met de work pagina en de hover effect op de afbeelding zetten, wat best wel lastig was aangezien het als een soort
+  reverse hover werkt dus je moet conten="" gebruiken en dan ::after en ::before zodat je de hover kan laten zien voordat je hovert en dat de opacity 0 wordt als je wel hovert, ja.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Tijdens dit gesprek had ik niet echt veel vragen. Ik wou meer vragen wat ik kon doen om mijn website iets beter te maken zoals light en dark mode intergreren erin zodat dat werkt.
+  Daarnaast zei u (niet jij student assistent) dat ik nog een form erin moest zetten waardoor mijn hoop dat ik niet te veel tijd hoefte te spenderen weg ging. 
+  Helaas zei helemaal niemand iets in de groep op teams dus kan ik niet echt iets hier onderzetten. Ik was daar en tegen ook nog is te laat voor het gesprek,
+  omdat de tram 2x uitviel en ik op een of andere manier de metro had gemist tijdens dat ik er recht voor stond :).
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik heb nog geen formulier
+  - dark- en lightmode moet ook nog.
+
+  Beetje weinig helaas maar ik wist wel dat het een hele taaie week zou gaan worden aangezien dit niet het enigste vak is waar ik achterloop.
 
 </details>
 
