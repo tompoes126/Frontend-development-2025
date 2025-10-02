@@ -209,6 +209,7 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
      <br>
 
   De dingen die tegen vielen:
+  <br>
     - alleen de work page gaat niet tot 280px scallen dus dat is jammer.
      <br>
     - Ik kan de carousel niet met reduced motion uitzetten en je kan het ook niet op pauze zetten.
