@@ -188,22 +188,36 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
   De dingen die ik verbeterd heb:
+  <br>
     - dark- en lightmode toegevoegd
+     <br>
     - highcontrast mode werkt
+     <br>
     - Dat kleur niet de enige manier is waarop informatie overkomt aan de gebruiker.
+     <br>
     - De tekst die over iets staan (bijvoorbeeld rood) dat die niet wit is, dus beter contrast.
+     <br>
     - De forms zijn duidelijk aangegeven wat je uhh ik weet niet wat ik moet zeggen behalve dat het duidelijk is wat je moet plaatsen in de form denk ik.
+     <br>
     - De viewport is niet disabled
+     <br>
     - De focus state is duidelijk
+     <br>
     - Bij de scaling van breed naar dus dat het een clean process is dus niet dat er random tussen door white space aan 1 kant ontstaat.
+     <br>
     - alle images hebben een alt. 
+     <br>
 
   De dingen die tegen vielen:
     - alleen de work page gaat niet tot 280px scallen dus dat is jammer.
+     <br>
     - Ik kan de carousel niet met reduced motion uitzetten en je kan het ook niet op pauze zetten.
+     <br>
     - Er zijn 2 h1's in de nav omdat ik niet echt een oplossing kon vinden aangezien de ene weg gaat als het scherm kleiner wordt dat 810px,
       dus ik dacht dat dat niet erg zou zijn aangezien de ene of de ander altijd uit staat.
+       <br>
     - Ik heb geen skiplinks want ik snapte er helemaal niks van en ik had nog maar 2 uurtjes waarin ik niet helemaal wild zou gaan.
+     <br>
 
 </details>
 
