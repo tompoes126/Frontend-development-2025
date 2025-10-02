@@ -288,7 +288,7 @@ Voordat ik de toegangelijkheidstest ging doen moest ik eerst een aantal oefening
   <img src="readme-images/!hover.png" width="375px" alt="screenshot van de hover bij de work pagina">
   <p>Ik heb geleerd dat je met content="" en ::after ::before een soort reverse hover kan maken om dingen te revealen als je er overheen gaat inplaats van andersom.</p>
 
-  <img src="readme-images/!focus" width="375px" alt="screenshot van de focus bij de work pagina">
+  <img src="readme-images/!focus.png" width="375px" alt="screenshot van de focus bij de work pagina">
   <p>Dit is de eerste keer dat ik een focus state heb gebruikt maar het toevoegen ervan op mijn pagina was niet al te moeilijk</p>
 
   ### Dit was lastig/Is niet gelukt:
